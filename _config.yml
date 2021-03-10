@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: "Yeti 'Nother Paper"
+description: "Bioengineering that caught my eye"
+github: 
+    is_project_page: false
+
