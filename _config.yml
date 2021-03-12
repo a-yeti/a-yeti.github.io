@@ -3,4 +3,6 @@ title: "Yeti 'Nother Paper"
 description: "Bioengineering that caught my eye"
 github: 
     is_project_page: false
+plugins:
+  - jekyll-seo-tag
 
