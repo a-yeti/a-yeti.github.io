@@ -1,7 +1,9 @@
 # Micropattern-controlled chirality of focal adhesions regulates the cytoskeletal arrangement and gene transfection of mesenchymal stem cells (Wang et al., 2021)<sup>1</sup>
 
 Chirality is a lack of mirror symmetry. Chiral molecules are a fundamental idea in organic chemistry, and organisms are obviously chiral – your heart is on the left, not the right, after all. In fact, the internal organs of all vertebrates are asymmetrically organised.<sup>2</sup> What had never occurred to me before I saw this paper, though, is the idea of chirality at the cellular scale. 
+
 It’s not obvious why macroscopic asymmetry is advantageous, though it has been proposed that chirality in the heart improves efficiency of circulation<sup>3</sup>, so improved fluid dynamics or spatial packing seem plausible in principle. Even less clear is why macro-scale asymmetry is consistent across populations. In humans, around 1 person in 10,000 is born with situs inversus: all of their internal organs are reflected through the sagittal plane. Many of those people have no symptoms at all!
+
 Another lovely example of this mystery is in snails with coiled shells (figure 1). These coils can be either left-handed or right-handed helices, and within each snail species the handedness of coiling is consistent. However, both left-hand and right-handed spiralling species exit.
  
 |![](/assets/cell-chirality/snail-shells.png)|
@@ -9,6 +11,7 @@ Another lovely example of this mystery is in snails with coiled shells (figure 1
 |Figure 1: Asymmetric Coiling of Snail Shells, reproduced from Murray and Clarke, 1966<sup>4</sup>|
 
 The mechanisms by which symmetry is first broken in development are unknown. Left-right axes in molecular expression emerge early in embryonic development (as expected, given the heart is the first organ to form), but how asymmetric transcription first arises is an open question.
+
 At the individual cell level, chirality has been observed in organelle distribution, in migration preferences, and in rotation of the nuclei.<sup>5,6</sup> Interestingly, it was proposed that the nuclear rotation effects are driven by asymmetry in the actin cytoskeleton,  which also clearly influences organelle distribution.<sup>7</sup> Surely the cell skeleton is essential to this story? 
  
 ## What’s this paper trying to do then?
