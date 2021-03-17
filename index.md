@@ -1,5 +1,5 @@
 # Welcome to Yeti 'Nother Paper
-With a bit of luck, we'll be publishing a summary of a bioengineering (broadly construed) paper which has caught our eye once a month.
+With a bit of luck, we'll be publishing a summary of a bioengineering (broadly construed) paper which has caught our eye once a week.
 
 <ul class="posts">
     {% for post in site.posts %}
