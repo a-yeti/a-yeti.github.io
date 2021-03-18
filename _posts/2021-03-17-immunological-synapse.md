@@ -10,7 +10,7 @@ With a name like "Natural Killer Cells", we can assume NK cells are the cool kid
 |:--:|
 |Figure 1: Activation of NK Cells, reproduced from Lanier, 2005<sup>3</sup>|
 
-Activated NK cells form an immune synapse with the target cell, allowing the NK cell to empty its lytic granules into the target cells and trigger cell death.<sup>4</sup> The lytic immune synapse is closely related to the immune synapse formed between a T-cell and an antigen-presenting cell in T-cell activation. Adhesion betweeion the two cells is mediated by LFA-1 and other integrin proteins in both cases, and as we'll see this paper is built on the similarity of the two assemblies.
+Activated NK cells form an immune synapse with the target cell, allowing the NK cell to empty its lytic granules into the target cells and trigger cell death.<sup>4</sup> The lytic immune synapse is closely related to the immune synapse formed between a T-cell and an antigen-presenting cell in T-cell activation. Adhesion between the two cells is mediated by LFA-1 and other integrin proteins in both cases, and as we'll see this paper is built on the similarity of the two assemblies.
 
 ## What’s this team trying to do then?
 T-cell activation is believed to depend on the interaction of nanoscale clusters of receptors (e.g. of TCR) on the T-cell surface with nanoscale clusters of ligands (e.g. MHC) on the antigen presenting cell. This work is about applying that insight to the closely related lytic immune synapse of the NK cells, and hence to design nanoparticles which efficiently activate NK cells. 
