@@ -2,7 +2,7 @@
 title:  "Cell Chirality"
 ---
 
-# Micropattern-controlled chirality of focal adhesions regulates the cytoskeletal arrangement and gene transfection of mesenchymal stem cells (Wang et al., 2021)<sup>1</sup>
+# Micropattern-controlled chirality of focal adhesions regulates the cytoskeletal arrangement and gene transfection of mesenchymal stem cells (Wang *et al.*, 2021)<sup>1</sup>
 
 Chirality is a lack of mirror symmetry. Chiral molecules are a fundamental idea in organic chemistry, and organisms are obviously chiral – your heart is on the left, not the right, after all. In fact, the internal organs of all vertebrates are asymmetrically organised.<sup>2</sup> What had never occurred to me before I saw this paper, though, is the idea of chirality at the cellular scale. 
 

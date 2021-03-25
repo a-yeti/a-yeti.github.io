@@ -2,7 +2,7 @@
 title: "Immunological Synapse"
 ---
 
-# Activation of Human Natural Killer Cells by Graphene Oxide-Templated Antibody Nanoclusters (Loftus et al., 2018)<sup>1</sup>
+# Activation of Human Natural Killer Cells by Graphene Oxide-Templated Antibody Nanoclusters (Loftus *et al.*, 2018)<sup>1</sup>
 
 With a name like "Natural Killer Cells", we can assume NK cells are the cool kids of the immune system. They are a type of lymphocyte closely related to T-cells, forming part of the innate immune system. NK cells are able to kill virus-infected or tumour cells without the priming by antigen-presenting cells needed by the killer T-cells.<sup>2</sup> Activation of NK cells seems to be quite complex, depending on the balance of activation by multiple families of ligands and inhibition by the MHC-1 receptor which indicates "self-ness" in the body (figure 1).
  

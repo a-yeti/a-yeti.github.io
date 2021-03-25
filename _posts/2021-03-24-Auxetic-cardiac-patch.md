@@ -12,9 +12,9 @@ Picture a piece of rubber being stretched: as it gets longer, it also gets thinn
 |Figure 1: a) Bow tie auxetic pattern, reproduced from Kapnisi *et al.*, 2018<sup>1</sup>|b) Bucklicrystals, reproduced from Babee *et al.*, 2013<sup>2</sup>|
 
 ## Why are they interesting for cardiac applications?
-Cardiac muscle has two unusual mechanical properties:
-1)  The Young’s modulus of the heart varies substantially (between 0.02 and 0.50 MPa) between systole and diastole
-2)  The heart’s stiffness is asymmetric – it is 2-4 times stiffer circumferentially than longitudinally
+Cardiac muscle has two unusual mechanical properties:  
+1)  The Young’s modulus of the heart varies substantially (between 0.02 and 0.50 MPa) between systole and diastole  
+2)  The heart’s stiffness is asymmetric – it is 2-4 times stiffer circumferentially than longitudinally  
 
 In an auxetic material the stiffness in each direction and the anisotropy of stiffness can both be tuned by varying the dimensions of the patterns. Theoretical models have been developed to precisely guide design.<sup>3</sup> So, we might be able to design materials which match the stiffness of the heart precisely, and hence heart patches which accommodate the motion of beating.
 
