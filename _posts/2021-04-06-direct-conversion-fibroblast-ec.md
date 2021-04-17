@@ -35,7 +35,7 @@ b)  After 28 days, the cells are sorted for VE-Cadherin expression. It was found
 |:--:|
 |Figure 2: Procedure for Production of Double-Positive induced Endothelial Cells (iECs), reproduced from Han *et al.* (2021)<sup>1</sup>|
 
-I found this procedure very interesting for its addition of Rosiglitazone. Presumably the natural possibility EMT means a mesenchymal-like intermediate cell state is more stable than an intermediate state might otherwise be, and suppressing that transition makes this direct conversion more tractable.   
+I found this procedure very interesting for its addition of Rosiglitazone. Presumably the natural possibility of EMT means a mesenchymal-like intermediate cell state is more stable than an intermediate state might otherwise be, and suppressing that transition makes this direct conversion more tractable.   
 
 ## Confirmation of Phenotype
 The phenotype and functionality of the induced endothelial cells was assessed quite comprehensively – probably necessary, given their main claim is that prior attempts at inducing this transition didn’t properly characterise the end state! Key confirmations were:  
