@@ -15,7 +15,7 @@ Epithelial to mesenchymal transitions are processes in which polarised epithelia
 1)  During implantation and development of an embryo.  
 2)  During inflammation and fibrosis. This is associated with TGF-β1 signalling.  
 3)  In tumours and carcinomas. The mobility of the mesenchymal cells is associated with metastasis in cancers.  
-The related endothelial-mesenchymal transition is known, but less well studied. It does seem to have very similar biochemistry though.
+The specific subset of the endothelial-mesenchymal transition is known, but less well studied. It does seem to have very similar biochemistry though.
 
 ## “Endothelialness”
 If we’re trying to convert fibroblasts to epithelial cells, we’ll need a way to screen for the endothelial phenotype efficiently. Initially, they do this by immunofluorescence labelling of VE-Cadherin (the cells are stained with anti-VE-cadherin antibodies, which are then stained with secondary antibodies which recognise the primary antibodies and are conjugated to a fluorophore). However, RNA sequencing of the VE-cadherin positive cells which they initially induced showed an intermediate expression profile which is in fact closer to dermal fibroblasts than to endothelial cells. These “single positive” cells lack the “cobblestone” appearance of endothelial cells, and do not express Pecam1, usually a stable marker of endothelial cells.  
